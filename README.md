@@ -1,8 +1,13 @@
-# LJ Melt Simulation (lj_melt_lammps.ipynb)
+# Lennard-Jones Melting Simulation (lj_melt_lammps.ipynb)
 
-This Google Colab notebook demonstrates molecular dynamics using the LAMMPS lj_melt example.
+A Lennard-Jones (LJ) system containing approximately 4,000 FCC atoms was simulated using LAMMPS to study the evolution of an initially ordered crystalline structure at high temperature.
 
-An FCC Lennard-Jones system containing 4000 atoms was simulated. The simulation was used to observe the evolution of the system from an initially ordered crystalline structure and to study thermodynamic properties during molecular dynamics.
+# Simulation Details
+*Structure: FCC
+Number of atoms: ~4,000
+Initial temperature: 3.0 LJ units
+LJ potential: lj/cut with cutoff = 2.5
+Ensemble: NVE
+Simulation steps: 1,000
 
-# Finnis-Sinclair Embedded Atom Method
 
