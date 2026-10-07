@@ -1,6 +1,6 @@
 # Lennard-Jones Melting Simulation (lj_melt_lammps.ipynb)
 
-A Lennard-Jones (LJ) system containing approximately 4,000 FCC atoms was simulated using LAMMPS to study the evolution of an initially ordered crystalline structure at high temperature.
+A Lennard-Jones (LJ) system containing approximately 2,000 FCC atoms was simulated using LAMMPS to study the evolution of an initially ordered crystalline structure at high temperature.
 
 # Simulation Details
 - **Structure:** FCC
