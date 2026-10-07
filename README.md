@@ -4,7 +4,7 @@ A Lennard-Jones (LJ) system containing approximately 4,000 FCC atoms was simulat
 
 # Simulation Details
 - **Structure:** FCC
-- **Number of atoms:** ~4,000
+- **Number of atoms:** ~2,000
 - **Initial temperature:** 3.0 LJ units
 - **LJ potential:** lj/cut with cutoff = 2.5
 - **Ensemble:** NVE
